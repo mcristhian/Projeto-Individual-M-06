@@ -1,0 +1,39 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+label{
+  color: chartreuse;
+  font-size: 15PX;
+}
+
+form{
+  color: floralwhite;
+}
+
+form, label{
+  background-color: black;
+
+}
+
+tbody{
+  background-color: ghostwhite;
+  border-radius: 50%;
+}
+
+button{
+  border-radius: 50%;
+}
+
+td{
+  color: black;
+  font-size: 18px;
+}
+
+thead{
+  background-color: gold;
+
+}
+  
